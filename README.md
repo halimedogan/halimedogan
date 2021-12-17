@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halimedogan&label=Profile%20views&color=0e75b6&style=flat" alt="halimedogan" /> </p>
 
-- 🔭 I’m currently working on **Big Data**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning**
 
