@@ -18,7 +18,9 @@
 <p align="left">
 <a href="https://twitter.com/hlmdogan" target="blank"><img align="center" src="https://github.com/twitter.png" alt="halimedogan" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/halimedogan/" target="blank"><img align="center" src="https://github.com/linkedin.png" alt="halimedogan/" height="40" width="40" /></a>
-<a href="https://kaggle.com/halimedogan" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="deepjunkie" height="40" width="100" /></a></p>
+<a href="https://kaggle.com/halimedogan" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="halimedogan" height="40" width="100" />
+<a href="https://medium.com/@halimedogan" target="blank"><img align="center" src="https://miro.medium.com/fit/c/56/56/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="halimedogan" height="40" width="40" />
+</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
