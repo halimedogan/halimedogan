@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**halimedogan/halimedogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Halime</h1>
 <h3 align="center">Data Scientist, Deep Learning Enthusiast</h3>
 
