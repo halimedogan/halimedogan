@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Halime</h1>
+<h1 align="center">Hi 👋 I'm Halime</h1>
 <h3 align="center">Data Scientist, Deep Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halimedogan&label=Profile%20views&color=0e75b6&style=flat" alt="halimedogan" /> </p>
