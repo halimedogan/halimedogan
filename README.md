@@ -14,8 +14,7 @@
 - 📫 How to reach me **dogan.halime@outlook.com**
 
 <a href="https://twitter.com/hlmdogan" target="blank"><img align="center" src="https://github.com/twitter.png" alt="halimedogan" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/halimedogan/" target="blank"><img align="center" src="https://github.com/linkedin.png" alt="halimedogan/" height="40" width="40" /></a>
-<a href="https://kaggle.com/halimedogan
+<a href="https://linkedin.com/in/halimedogan/" target="blank"><img align="center" src="https://github.com/linkedin.png" alt="halimedogan/" height="40" width="40" /></a><a href="https://kaggle.com/halimedogan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
