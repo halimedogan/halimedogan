@@ -15,8 +15,7 @@
 
 <a href="https://twitter.com/hlmdogan" target="blank"><img align="center" src="https://github.com/twitter.png" alt="halimedogan" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/halimedogan/" target="blank"><img align="center" src="https://github.com/linkedin.png" alt="halimedogan/" height="40" width="40" /></a>
-<a href="https://kaggle.com/halimedogan height="40" width="100" /></a>
-</p>
+<a href="https://kaggle.com/halimedogan" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="deepjunkie" height="40" width="100" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
