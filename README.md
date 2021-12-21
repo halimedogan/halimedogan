@@ -2,7 +2,7 @@
 
 ![image_processing20200512-26236-ieqo5l](https://user-images.githubusercontent.com/74882773/142724964-06ff7234-5a04-4828-8f19-cf01af7628ab.gif)
 
-<h1 align="center">I'm Halime. 🦩</h1>
+<h1 align="center">I'm Halime Doğan. 🦩</h1>
 
 <h3 align="center">Mechatronics Engineer & Data Scientist</h3>
 
