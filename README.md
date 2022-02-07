@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halimedogan&label=Profile%20views&color=F48FB1&style=flat" alt="halimedogan" /> </p>
-
+![images](https://user-images.githubusercontent.com/74882773/152776812-aaf44c2b-e0fd-4eba-aa0e-1af696a4b30b.png)!
 ![image_processing20200512-26236-ieqo5l](https://user-images.githubusercontent.com/74882773/142724964-06ff7234-5a04-4828-8f19-cf01af7628ab.gif)
 
 <h1 align="center">I'm Halime. 🦩</h1>
